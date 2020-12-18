@@ -1,0 +1,47 @@
+.sisalto1{
+  background-color:pink;
+  padding:10px;
+  border-right-style:double;
+  border-left-style:dashed;
+  border-top-style:dotted;
+  border-bottom-style:solid;
+}
+.sisalto1 h1{
+  font-family:Tahoma;
+  text-decoration:underline;
+  text-transform:uppercase;
+  letter-spacing:0.5em;
+  word-spacing:1em;
+}
+.alue1{
+  width:70%;
+  margin:auto;
+}
+.nappula{
+  background-color: black;
+  color:white;
+  padding:10px;
+  border:none;
+}
+.asemointi{
+  position:fixed;
+  top:100px;
+  left:0px;
+}
+.lomake-alue{
+  margin:150px;
+}
+a{
+  color:white;
+}
+a:hover{
+  color:aqua;
+}
+body{
+  background-color:rgb(230, 100, 126);
+  color:black;
+  font-family:Arial, Helvetica, sans-serif;
+  font-weight:bold;
+  }
+
+  
